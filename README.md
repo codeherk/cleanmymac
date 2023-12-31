@@ -18,11 +18,11 @@ Problems:
 
 # Prerequisites
 
-- Python 3 installed (preferably 3.9)
+- Python 3.9
 - A MacBook 😂
 
 # Getting Started
 
 - Clone this project
 - Update `cache_directory` path
-- Run `python3.9 cleanmymac.py`
+- Run `python3.9 cleanmymac.py` or run `make start`
